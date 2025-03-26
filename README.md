@@ -1,4 +1,4 @@
-![Uber Fare Prediction Banner](Public/Screenshot2025-03-26235941.png)
+![Uber Fare Prediction Banner](Public/Screenshot 2025-03-26 235941.png)
 # 🚖 Uber Fare Prediction using Machine Learning  
 
 
