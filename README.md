@@ -1,4 +1,4 @@
-![Uber Fare Prediction Banner](Public/Screenshot2025-03-26235941.png)
+![Uber Fare Prediction Banner](https://github.com/arpita-sethii/CC_Project/blob/main/Public/Screenshot%202025-03-26%20235941.png)
 # 🚖 Uber Fare Prediction using Machine Learning  
 
 
