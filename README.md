@@ -76,11 +76,11 @@ After **feature engineering**, additional columns include:
 📌 **Performance Evaluation (R² Score, RMSE, MAE):**  
 | Model | R² Score ↑ | RMSE ↓ | MAE ↓ |  
 |--------|----------|----------|----------|  
-| Linear Regression | 0.62 | 5.12 | 3.24 |  
-| Polynomial Regression | 0.67 | 4.85 | 2.98 |  
-| XGBoost | 0.81 | 3.45 | 2.10 |  
-| LightGBM | 0.79 | 3.60 | 2.21 |  
-| **Ensemble Model** | **0.84** | **3.20** | **1.95** |  
+| Linear Regression | 0.76 | 5.12 | 2.30 |  
+| Polynomial Regression | 0.80 | 4.85 | 2.07 |  
+| XGBoost | 0.86 | 3.45 | 1.73 |  
+| LightGBM | 0.86 | 3.60 | 1.74 |  
+| **Ensemble Model** | **0.86** | **3.20** | **1.73** |  
 
 ✅ **Best Model: Ensemble Model (XGB + LGBM) with highest R² and lowest error!**  
 
