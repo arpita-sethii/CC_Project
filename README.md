@@ -58,7 +58,7 @@ After **feature engineering**, additional columns include:
 - Displayed fare distribution, trip distances, and time-based ride trends.  
 
 **💡 Sample EDA Visualization:**  
-![NYC Ride Heatmap]()
+![NYC Ride Heatmap](https://github.com/arpita-sethii/CC_Project/blob/main/Public/Screenshot%202025-03-23%20153729.png)
 
 
 ---
