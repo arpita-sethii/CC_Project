@@ -1,6 +1,6 @@
-# CC_Project
+![Uber Fare Prediction Banner](Public/Screenshot2025-03-26235941.png)
 # 🚖 Uber Fare Prediction using Machine Learning  
-![Uber Fare Prediction Banner](your-image-path/banner.png)  
+
 
 📍 **Predicting Uber ride fares accurately using Machine Learning models, feature engineering, and data visualization.**  
 This project implements **Linear Regression, Multiple Regression, Polynomial Regression, XGBoost, LightGBM, and an Ensemble Model** to optimize fare predictions.  
@@ -58,7 +58,7 @@ After **feature engineering**, additional columns include:
 - Displayed fare distribution, trip distances, and time-based ride trends.  
 
 **💡 Sample EDA Visualization:**  
-![NYC Ride Heatmap](Public/Screenshot2025-03-23153729.png) 
+![NYC Ride Heatmap](Public/Screenshot2025-03-23153729.png)
 
 
 ---
